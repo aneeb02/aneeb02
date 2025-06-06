@@ -26,11 +26,14 @@ Welcome! I'm passionate about designing, developing, and deploying robust applic
   </a>
 </div>
 
+
 ---
 
 ## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/aneeb-ur-rehman-222a211ba/)
+
 - [Email](mailto:aneeb.02@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/aneeb-ur-rehman-222a211ba/)
 
 
 <!--
