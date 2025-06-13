@@ -3,16 +3,18 @@
 **Up-and-Coming AI Developer | ML | Software Development**
 
 Welcome! I'm passionate about designing, developing, and deploying robust applications using the latest and greatest tech!
+- 🌱 I’m currently learning Data Science, AI, Data Analysis
+- 👯 I’m looking to collaborate on open-source, real-world data science projects
 
 ---
 
 ## 🎯 About Me
 
-- 🔧 **Tech Stack**: Python | C/C++ | Javascript | Django | Flask 
+- ⚡ **Tech Stack**: Python | C/C++ | Javascript | Django | Flask
+- 🔧 **Frameworks/Libraries**: Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn
 - 🤖 **AI Focus**: Machine Learning and AI-driven apps.
 - 🎨 **Non-Technical Side**: Native Advertising, Campaign Management
-- 🌐 **Web & App Dev**: Full-stack app/website development
-  
+- 🌐 **Web & App Dev**: Full-stack app/website development | HTML | CSS | Tailwind | React
 ---
 
 ## 📊 GitHub Stats
@@ -42,7 +44,7 @@ Welcome! I'm passionate about designing, developing, and deploying robust applic
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
