@@ -12,7 +12,7 @@ Welcome! I'm passionate about designing, developing, and deploying robust applic
 
 - ⚡ **Tech Stack**: Python | C/C++ | Javascript | Django | Flask
 - 🔧 **Frameworks/Libraries**: Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn
-- 🤖 **AI Focus**: Machine Learning and AI-driven apps.
+- 🤖 **AI Focus**: Data Science, Machine Learning and AI-driven apps.
 - 🎨 **Non-Technical Side**: Native Advertising, Campaign Management
 - 🌐 **Web & App Dev**: Full-stack app/website development | HTML | CSS | Tailwind | React
 ---
