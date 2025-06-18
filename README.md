@@ -28,39 +28,6 @@ Welcome! I'm passionate about designing, developing, and deploying robust applic
   </a>
 </div>
 
----
-
-## 🚀 My Projects
-
-<details>
-  <summary><strong>Project Title 1</strong></summary>
-  <br>
-  <strong>Technologies Used:</strong> Placeholder for technologies
-  <br>
-  <strong>Description:</strong> Placeholder for project description. This project does cool things.
-  <br>
-  <strong>Project Link:</strong> <a href="#">Link to Project 1</a>
-</details>
-
-<details>
-  <summary><strong>Project Title 2</strong></summary>
-  <br>
-  <strong>Technologies Used:</strong> Placeholder for technologies
-  <br>
-  <strong>Description:</strong> Placeholder for project description. Another awesome project.
-  <br>
-  <strong>Project Link:</strong> <a href="#">Link to Project 2</a>
-</details>
-
-<details>
-  <summary><strong>Project Title 3</strong></summary>
-  <br>
-  <strong>Technologies Used:</strong> Placeholder for technologies
-  <br>
-  <strong>Description:</strong> Placeholder for project description. Yet another fantastic project.
-  <br>
-  <strong>Project Link:</strong> <a href="#">Link to Project 3</a>
-</details>
 
 ---
 
