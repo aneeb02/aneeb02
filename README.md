@@ -4,7 +4,7 @@
 
 Welcome! I'm passionate about designing, developing, and deploying robust applications using the latest and greatest tech!
 - 🌱 I’m currently learning Data Science, AI, Data Analysis
-- 👯 I’m looking to collaborate on open-source, real-world data science projects
+- 👯 I’m looking to collaborate on open-source, real-world projects
 
 ---
 
@@ -14,7 +14,7 @@ Welcome! I'm passionate about designing, developing, and deploying robust applic
 - 🔧 **Frameworks/Libraries**: [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-0f637a?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 - 🤖 **AI Focus**: Data Science, Machine Learning and AI-driven apps.
 - 🎨 **Non-Technical Side**: Native Advertising, Campaign Management
-- 🌐 **Web & App Dev**: Full-stack app/website development | HTML | CSS | Tailwind | React
+- 🌐 **Web & App Dev**: Full-stack app/website development | Django | React | Node.js |  Tailwind
 ---
 
 ## 📊 GitHub Stats
