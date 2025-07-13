@@ -3,7 +3,7 @@
 **Up-and-Coming AI Developer | ML | Software Development**
 
 Welcome! I'm passionate about designing, developing, and deploying robust applications using the latest and greatest tech!
-- 🌱 I’m currently learning Data Science, AI, Data Analysis
+- 🌱 I’m currently learning Data Science, AI, Full-Stack Dev
 - 👯 I’m looking to collaborate on open-source, real-world projects
 
 ---
