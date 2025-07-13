@@ -13,8 +13,8 @@ Welcome! I'm passionate about designing, developing, and deploying robust applic
 - ⚡ **Tech Stack**: [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 - 🔧 **Frameworks/Libraries**: [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-0f637a?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 - 🤖 **AI Focus**: Data Science, Machine Learning and AI-driven apps.
-- 🎨 **Non-Technical Side**: Native Advertising, Campaign Management
-- 🌐 **Web & App Dev**: Full-stack app/website development | Django | React | Node.js |  Tailwind
+- 🌐 **Web & App Dev**: Full-stack app/website development | Django | React | Node.js | Typescript | Next.js | Flask | Tailwind
+- 🎨 **Non-Technical Side**: Native Advertising | Campaign Management | Marketing
 ---
 
 ## 📊 GitHub Stats
