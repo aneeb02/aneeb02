@@ -1,21 +1,24 @@
 # Hi there 👋, I'm Aneeb
 
-**Up-and-Coming AI Developer | ML | Software Development**
+**Computer Science Undergraduate | Backend & Data-Oriented Software Engineer**
 
-Welcome! I'm passionate about designing, developing, and deploying robust applications using the latest and greatest tech!
-- 🌱 I’m currently learning Data Engineering, AI, Full-Stack Dev
-- 👯 I’m looking to collaborate on open-source, real-world projects
+I build **backend-first applications** with a strong focus on APIs, databases, and data pipelines. I enjoy working on systems where correctness, performance, and clarity matter. From backend services to data-driven features, my interest lies in developing such applications.
+
+I’m currently strengthening my foundation in **backend engineering** while also learning **data engineering**. I’m looking to collaborate on open-source, real-world projects.
 
 ---
 
-## 🎯 About Me
+## What I Work On
 
-- ⚡ **Tech Stack**: [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- 🔧 **Frameworks/Libraries**: [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-0f637a?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-- 🤖 **AI Focus**: Data Science, Machine Learning and AI-driven apps.
-- 🌐 **Web & App Dev**: Full-stack app/website development | Django | FastAPI | React | Node.js | Typescript | Next.js | Tailwind
-- 🎨 **Non-Technical Side**: Native Advertising | Campaign Management | Marketing
----
+- Backend development with **Django** and **FastAPI**
+- Designing **REST APIs** and real-time services
+- Relational and NoSQL databases (**PostgreSQL, MySQL, MongoDB, Redis**)
+- Data handling, transformation, and pipeline-style workflows
+- ML-powered features integrated via APIs (used as tools, not research)
+- Mobile & web apps using **React Native** and **Next.js**
+
+My background in **native advertising and campaign optimization** gives me a product mindset and comfort working with data at scale.
+
 
 ## 📊 GitHub Stats
 
@@ -33,9 +36,8 @@ Welcome! I'm passionate about designing, developing, and deploying robust applic
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/aneeb-ur-rehman-222a211ba/)
-
-- [Email](mailto:aneeb.02@gmail.com)
+- **LinkedIn**: https://linkedin.com/in/aneeb-ur-rehman-222a211ba/
+- **Email**: aneeb.02@gmail.com
 
 
 <!--
