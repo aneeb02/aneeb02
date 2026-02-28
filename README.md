@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aneeb
 
-**Computer Science Undergraduate | Backend & Data-Oriented Software Engineer**
+**Backend & Data-Oriented Software Engineer**
 
 I build **backend-first applications** with a strong focus on APIs, databases, and data pipelines. I enjoy working on systems where correctness, performance, and clarity matter. From backend services to data-driven features, my interest lies in developing such applications.
 
